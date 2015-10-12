@@ -1,0 +1,8 @@
+@import "variables"; 
+@import "animation";
+
+@import "../vendor/bootstrap-sass/assets/stylesheets/bootstrap-custom";
+
+body{
+	background-color: $brand-primary;
+}
