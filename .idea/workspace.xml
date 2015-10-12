@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c412e319-459b-490e-965c-21aad329b30b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/css/main.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/js/compiled.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/css/combined.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/js/compiled.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/less/main.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vendor/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vendor/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vendor/js/jquery-1.10.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vendor/js/modernizr-2.6.2-respond-1.1.0.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/main.js" afterPath="$PROJECT_DIR$/src/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="animation.iws" />
     <ignored path=".idea/workspace.xml" />
